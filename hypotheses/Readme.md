@@ -23,4 +23,4 @@
 Необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.Это поможет нам увеличить повысить выручку.
 
 ## Используемые библиотеки
-_warnings_,_pandas_,_matplotlib_,_scipy_,_seaborn_,_matplotlib_,
+_warnings_,_pandas_,_matplotlib_,_scipy_,_seaborn_,_matplotlib_
