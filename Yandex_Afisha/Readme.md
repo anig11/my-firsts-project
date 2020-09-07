@@ -20,9 +20,4 @@
 В нашем распоряжении данные от Яндекс.Афиши.Необходимо оптимизировать маркетинговые затраты.
 
 ## Используемые библиотеки
-_warnings_
-_pandas_
-_math_
-_matplotlib_
-_numpy_
-_seaborn_
+_warnings_,_pandas_,_math_,_matplotlib_,_numpy_,_seaborn_
