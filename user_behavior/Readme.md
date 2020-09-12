@@ -12,12 +12,4 @@
 Так же необходимо изучить результаты А/А/В - эксперимента.Эксперимент связан с желанием дизайнеров поменять шрифты во всем приложении.
 
 ## Используемые библиотеки
-_warnings_
-_pandas_
-_math_
-_matplotlib_
-_numpy_
-_scipy_
-_seaborn_
-_matplotlib_
-_plotly_
+_warnings_,_pandas_,_math_,_matplotlib_,_numpy_,_scipy_,_seaborn_,_matplotlib_,_plotly_
