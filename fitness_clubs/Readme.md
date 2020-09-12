@@ -23,4 +23,4 @@
 Провести анализ и подготовить план действий по удержанию клиентов.
 
 ## Используемые библиотеки
-_pandas_,_warnings_,_matplotlib_,_seaborn_,sklearn_
+_pandas_,_warnings_,_matplotlib_,_seaborn_,_sklearn_

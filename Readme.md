@@ -1,12 +1,12 @@
 # Проекты репозитория
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Название проекта | Описание                                    |Используемые библиотеки| 
 | :---------------------- | :---------------------- | :---------------------- |
 |[Проект по SQL](https://github.com/anig11/my-firsts-project/tree/master/SQL_project)|Анализ баз данных о книгах, издательствах, авторах, публикациях и пользовательских обзорах|_warnings_,_pandas_,_sqlalchemy_|
 |[Аналитика в Яндекс.Афише](https://github.com/anig11/my-firsts-project/tree/master/Yandex_Afisha)|В нашем распоряжении данные от Яндекс.Афиши.Необходимо оптимизировать маркетинговые затраты|_warnings_,_pandas_,_math_,_matplotlib_,_numpy_,_seaborn_|
 |[A/B тестирование](https://github.com/anig11/my-firsts-project/tree/master/ab_testing)|В нашем распоряжении результаты A/B теста,техническое задание и несколько датасетов. Необходимо проанализировать результаты теста,оценить корректность его проведения.|_pandas_,_matplotlib_,_seaborn_,_io_|
 |[Компьютерные игры в интернет магазине](https://github.com/anig11/my-firsts-project/tree/master/computer_games)|Необходимо выявить определяющие успешность игры закономерности.|_pandas_,_matplotlib_,_seaborn_,_warnings_|
-|[Анализ сети фитнес-центров](https://github.com/anig11/my-firsts-project/tree/master/fitness_clubs)|Необходимо провести анализ и подготовить план действий по удержанию клиентов.|_pandas_,_warnings_,_matplotlib_,_seaborn_,sklearn_|
+|[Анализ сети фитнес-центров](https://github.com/anig11/my-firsts-project/tree/master/fitness_clubs)|Необходимо провести анализ и подготовить план действий по удержанию клиентов.|_pandas_,_warnings_,_matplotlib_,_seaborn_,_sklearn_|
 |[Приоритизация гипотез](https://github.com/anig11/my-firsts-project/tree/master/hypotheses)|Необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.Это поможет нам увеличить повысить выручку.|_warnings_,_pandas_,_matplotlib_,_scipy_,_seaborn_,_matplotlib_|
 |[Анализ программы лояльности](https://github.com/anig11/my-firsts-project/tree/master/loyalty_program)|Необходимо провести исследовательский анализ данных, провести анализ программы лояльности, сформулировать и проверить статистические гипотезы|_pandas_,_matplotlib_,_scipy_,_seaborn_,_io_,_sklearn_|
 |[Исследование музыкальных предпочтений](https://github.com/anig11/my-firsts-project/tree/master/music)|Исследование музыкальных предпочтений в городах Москва и Санкт-Петербург|_pandas_|
