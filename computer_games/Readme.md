@@ -7,6 +7,6 @@
 
 Средние пользовательские рейтинги жанров Action и Sports не равны.
 ## Стек
-_pandas_,_matplotlib_,_seaborn_,_warnings_ 
+_pandas_, _matplotlib_, _seaborn_, _warnings_ 
 ## Статус
 _Закончен_
